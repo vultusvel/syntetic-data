@@ -1,0 +1,28 @@
+# --- LLM / Google GenAI (Vertex AI) ---
+google-genai>=1.0.0
+google-auth>=2.30.0
+
+# --- UI ---
+streamlit>=1.38.0
+
+# --- Database ---
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.30
+
+# --- DDL parsing ---
+sqlparse>=0.5.0
+
+# --- Data / synthetic generation ---
+pandas>=2.2.0
+Faker>=26.0.0
+tabulate>=0.9.0
+
+# --- Plotting (Talk to your data) ---
+plotly>=5.22.0
+
+# --- Observability ---
+langfuse>=2.50.0,<3.0.0
+
+# --- Config ---
+python-dotenv>=1.0.1
+pydantic>=2.7.0

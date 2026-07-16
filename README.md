@@ -131,3 +131,21 @@ Opens at http://localhost:8501
   with `openssl rand -hex 32`, update `docker-compose.yml`, then
   `docker compose up -d langfuse`.
 - **Langfuse shows nothing** → keys must be set in `.env` before starting Streamlit.
+
+
+
+
+<img width="1912" height="1019" alt="Screenshot 2026-07-16 at 15 46 41" src="https://github.com/user-attachments/assets/2710245f-efb2-459f-849b-7c3d15a62e5a" />
+
+
+<img width="1916" height="1032" alt="Screenshot 2026-07-16 at 15 48 34" src="https://github.com/user-attachments/assets/a51ae34d-d2d5-4223-b11f-77f559ab092f" />
+
+
+<img width="1747" height="925" alt="Screenshot 2026-07-16 at 15 49 37" src="https://github.com/user-attachments/assets/1c79ee31-0612-49ad-807d-4af9f6409971" />
+
+
+<img width="1920" height="1039" alt="Screenshot 2026-07-16 at 18 00 20" src="https://github.com/user-attachments/assets/b5d608b4-f89f-4c6a-96e2-664bb5addb1b" />
+
+
+
+
